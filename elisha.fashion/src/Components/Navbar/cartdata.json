@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "title":"Classic Kameez",
+      "description":"Printed | Cambric",
+      "price": "Rs.2,690" ,
+      "icon": "images/img1.jpeg",
+       "quantity": 1
+    },
+    {
+        "id":2,
+        "title":"Drop Shoulder",
+        "description":"Yarn Dyed Embroidered | Raw Silk",
+        "price":"5,490",
+        "icon":"images/img2.jpeg",
+        "quantity": 1
+       
+
+    },
+    {
+        "id":3,
+        "title":"Classic Kurta",
+        "description":"Printed | Cambric",
+        "price":"Rs.2,490",
+        "icon":"images/img3.jpeg",
+        "quantity": 1
+
+    },
+    {
+        "id":4,
+        "title":"Drop Shoulder",
+        "description":"Dyed Embroidered",
+        "price":"4,490",
+        "icon":"images/img4.jpeg",
+        "quantity": 1
+
+    },
+    {
+        "id":5,
+        "title":"Classic Kurta",
+        "description":"Printed | Cambric",
+        "price":"Rs.2,190",
+        "icon":"images/img5.jpeg",
+        "quantity": 1
+
+    },
+    {
+        "id":6,
+        "title":"Classic Kurta",
+        "description":"Printed | Cambric",
+        "price":"Rs.2,490",
+        "icon":"images/img6.jpeg",
+        "quantity": 1
+
+    },
+    {
+        "id": 7,
+        "title":"Classic Kameez",
+        "description":"Printed | Cambric",
+        "price": "Rs.2,690" ,
+        "icon": "images/img1.jpeg",
+        "quantity": 1
+  
+      },
+      {
+        "id":8,
+        "title":"Drop Shoulder",
+        "description":"Yarn Dyed Embroidered",
+        "price":"5,490",
+        "icon":"images/img2.jpeg",
+        "quantity": 1
+       
+
+    },
+    {
+        "id":9,
+        "title":"Classic Kurta",
+        "description":"Printed | Cambric",
+        "price":"Rs.2,490",
+        "icon":"images/img3.jpeg",
+        "quantity": 1
+
+    }
+]

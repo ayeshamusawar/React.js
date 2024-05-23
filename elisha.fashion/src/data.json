@@ -1,0 +1,54 @@
+[
+    {
+     "id": 1,
+     "title" : " Kameez",
+     "desc": "Printed ",
+     "price": "Rs.2,690",
+     "icon" : "images/img 1.jpeg"
+
+    },
+    {
+        "id": 2,
+        "title" : "DropShoulder",
+        "desc": "Raw Silk",
+        "price": "Rs.5,490",
+        "icon" : "images/img 2.jpeg"
+   
+    },
+    {
+        "id": 3,
+        "title" : "Kurta",
+        "desc": "Printed",
+        "price": "Rs.2,190",
+        "icon" : "images/img 3.jpeg"
+   
+    },
+    
+        {
+            "id": 4,
+            "title" : "DropShoulder",
+            "desc": "WaffleJacquard",
+            "price": "Rs.4,490",
+            "icon" : "images/img 4.jpeg"
+       
+        },
+        {
+            "id": 5,
+            "title" : "Kurta",
+            "desc": "Printed",
+            "price": "Rs.2,190",
+            "icon" : "images/img 5.jpeg"
+       
+        },
+        {
+            "id": 6,
+            "title" : "Kurta",
+            "desc": "Cambric",
+            "price": "Rs.2,190",
+            "icon" : "images/img 6.jpeg"
+       
+        }
+    
+  
+   
+]
