@@ -1,0 +1,57 @@
+.col{
+    margin-top: 5vw;
+}
+.pricingh1{
+    font-size: 3vw;
+    font-weight: bold;
+    color: black;
+}
+.pricingp{
+    color: grey;
+   font-size: 3vh
+   
+}
+.pricingcol-1{
+    margin-top: 3vw;
+    margin: 2vw;
+    border: 2px solid #ccc;
+    width: 20rem;
+    border-radius: 1vh;
+    border-shadow: none;
+}
+.personal{
+    margin-top: 2vw;
+    color: #9CA3AF;
+}
+.free{
+    font-weight: bold;
+}
+.iconp{
+    margin-top: 1vh;
+    margin-left: 1vh;
+}
+.header5{
+    color:  #9CA3AF;
+    margin-left: 2vw;
+    margin-top: 1vw;
+}
+.button{
+    margin: 2vw;
+    padding: 10px;
+    border: 2px solid black;
+    color: black;
+    font-size: 3vh;
+}
+.button2{
+    margin: 2vw;
+    padding: 10px;
+    border: 2px solid black;
+    color: white;
+    background-color: black;
+    font-size: 3vh;
+}
+.lastcol{
+    color: gray;
+    margin-top: 6vw;
+    margin-bottom: 6vw;
+}

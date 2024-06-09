@@ -1,0 +1,38 @@
+.heading{
+    color: black;
+    font-size: 4vw;
+    font-weight: bolder;
+}
+.aboutp{
+    color:grey;
+    font-size: 3vh;
+}
+.heading2{
+    font-weight: bold;
+    font-size: 5vh;
+}
+.aboutp2{
+    color: grey;
+    font-size: 3vh;
+}
+.image1{
+    border-radius: 8px;
+    margin-left: 5vw;
+    height: 44vh;
+    width: 75%;
+    margin: 3vw;
+}
+.image2{
+    border-radius: 8px;
+    height: 44vh;
+    width: 75%;
+    margin: 3vw;
+    /* margin-left: 2vw; */
+}
+.image3{
+    border-radius: 8px;
+    margin: 3vw;
+    height: 44vh;
+    width: 75%;
+    margin-left: 2em;
+}

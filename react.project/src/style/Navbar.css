@@ -1,0 +1,9 @@
+.navbar-brand{
+    color: black;
+}
+.navbar-brand .ship{
+    color: grey;
+}
+.left{
+    margin-left: 95%;
+}

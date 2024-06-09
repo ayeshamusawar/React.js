@@ -1,0 +1,73 @@
+ /* 1 row  */
+.heading{
+    color: black;
+    font-size: 3vw;
+    font-weight: bold;
+}
+.contactp{
+    color:grey;
+    font-size: 3vh;
+}
+ /* 2 row col 6  */
+.contacth2{
+    font-size: 5vh;
+}
+.contactp2{
+    color: grey;
+    font-size: 3vh;
+}
+.iconcont{
+    
+    margin-bottom: 1vw;
+}
+.iconcont2{
+    margin-bottom: 1vw;
+}
+.location{
+    color: grey;
+    font-size: 3vh;
+    margin-left: 1vw;
+    
+}
+.email{
+    color: grey;
+    font-size: 3vh;
+    margin-left: 1vw;
+    /* margin-bottom: 1vw; */
+}
+.phoneno{
+    color: grey;
+    font-size: 3vh;
+    margin-left: 1vw;
+    /* margin-bottom: 1vw; */
+}
+.inputname{
+    /* margin-top: 1vw; */
+    padding: 11px;
+    border: 2px solid gray;
+    border-radius: 6px;
+}
+.inputaddress{
+    /* margin-top: 1vw; */
+    padding: 11px;
+    border: 2px solid gray;
+    border-radius: 6px;
+}
+.inputaddress1{
+    margin-top: 2vw;
+    padding: 11px;
+    border: 2px solid gray;
+    border-radius: 6px;
+}
+.buttoncont{
+    margin-top: 1vw;
+    padding: 11px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+}
+.lastcontact{
+    color: gray;
+    margin-top: 6vw;
+    margin-bottom: 6vw;
+}
