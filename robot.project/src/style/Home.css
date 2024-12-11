@@ -1,0 +1,98 @@
+/* row 1  */
+.head{
+    margin-top: 5vw;
+    font-size: 4vw;
+    color: black;
+    font-weight: bolder;
+}
+.p{
+   margin-top: 1vw;
+   /* font-size: 1.3vw; */
+   color: grey;
+}
+.btnicon{
+    margin-right: 1vw;
+}
+.button1{
+    background-color: black;
+    color: #fff;
+    margin-right: 1vw;
+    margin-top: 2vh;
+    border-radius: 1vh;
+    font-size: 3vh;
+    padding: 8px;
+    border: 2px solid black;
+}
+.btn2{
+   
+    color: black;
+    font-size: large;
+    padding: 8px;
+    border: 2px solid black;
+}
+/* row 2  */
+
+.header2{
+    font-size: 7vh;
+    font-weight: bolder;
+    color: black;
+
+}
+.p2{
+    font-size: 3vh;
+}
+.col-h1{
+   font-size: 3vh;
+   font-weight: bold;
+    color: black;
+    margin-top: 2vw;
+}
+.col-p1{
+    font-size: 1em;
+}
+.circle{
+    width: 7vw; 
+    height: 2em; 
+    border-radius: 50%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-right: 1vw;
+    margin-bottom: 4vw;
+}
+.Icons{
+    font-size: 0.9em;
+}
+/*row 3 icon  */
+.icon{
+    margin: 5vw;
+    
+    font-size: 6vh;
+    color: black;
+}
+/*row 3 card  */
+.ctitle{
+  color: white;
+  margin-top: 3vw;
+  font-size: 4vw;
+  font-weight: bold;
+}
+.ctext{
+    color: white;
+    margin-top: 1vw;
+    font-size: 3vh;
+}
+.cbtn{
+    background-color: white;
+    color: grey;
+    border: 2px;
+    padding: 10px;
+}
+/* row 4 */
+.lastcol{
+    color: gray;
+    margin-top: 6vw;
+    margin-bottom: 6vw;
+}

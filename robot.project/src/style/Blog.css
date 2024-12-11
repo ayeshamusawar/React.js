@@ -1,0 +1,54 @@
+/* row 1  */
+.blogheading{
+    color: black;
+    font-size: 3vw;
+    font-weight: bold;
+}
+.blogp{
+    color:grey;
+    font-size: 3vh;
+}
+/* row 2  */
+.imageb1{
+    border-radius: 8px;
+}
+/* row 2  */
+.pb1{
+    margin-top: 1vw;
+    color: #66A8FA;
+    font-weight: bold;
+}
+.headingb1{
+    font-weight: bold;
+    font-size: 2vw;
+    color: black;
+}
+.pb1wed{
+    color: gray;
+    margin-top: 1vw;
+}
+.lastcol{
+    color: gray;
+    margin-top: 6vw;
+    margin-bottom: 6vw;
+}
+
+
+/* Blog 1 ki styling  */
+.align-items-start {
+    align-items: start;
+  }
+.longpara{
+    color: grey;
+    font-size: 21px;
+}
+.headerh2{
+    margin-top: 4vw;
+    font-size: 3vw;
+    color: black;
+    font-weight: bold;
+}
+.b1col{
+    color: gray;
+    margin-bottom: 6vw;
+}
